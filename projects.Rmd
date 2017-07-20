@@ -1,0 +1,5 @@
+---
+title: "Current Projects "
+---
+
+Currently I'm working on a project to analyze religious and spiritual beliefs and practices in the United States using data from the 2016 General Social Survey. Specifically, I'm interested in understanding the effects of age, socioeconomic status, region, and education level on religiousity, and the subsequent effects of religiosity on shaping moral values in public life. 
